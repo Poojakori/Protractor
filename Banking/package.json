@@ -1,0 +1,16 @@
+{
+  "name": "banking",
+  "version": "1.0.0",
+  "description": "Banking customer and End to end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pooja",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "5.4.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "winston": "^3.2.1"
+  }
+}

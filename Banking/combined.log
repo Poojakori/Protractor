@@ -1,0 +1,234 @@
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC1_ManagerLogin is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Add Customer is present. Pass"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC2_addCustomer is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Add Customer is successfully clicked."}
+{"level":"info","message":"First Name is successfully entered."}
+{"level":"info","message":"Last Name is successfully entered."}
+{"level":"info","message":"Post Code is successfully entered."}
+{"level":"info","message":"Add customer button is successfully clicked."}
+{"level":"info","message":"Customer added successfully."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC3_oppenAccountForDoller is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Open Account is successfully clicked."}
+{"level":"info","message":"Process is successfully clicked."}
+{"level":"info","message":"Accounnt created successfully."}
+{"level":"info","message":"userSelect is successfully selected."}
+{"level":"info","message":"doller is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC4_oppenAccountForPound is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Open Account is successfully clicked."}
+{"level":"info","message":"Process is successfully clicked."}
+{"level":"info","message":"Accounnt created successfully."}
+{"level":"info","message":"userSelect is successfully selected."}
+{"level":"info","message":"doller is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC5_oppenAccountForRupee is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Open Account is successfully clicked."}
+{"level":"info","message":"Process is successfully clicked."}
+{"level":"info","message":"Accounnt created successfully."}
+{"level":"info","message":"userSelect is successfully selected."}
+{"level":"info","message":"doller is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC6_ToDeleteCustomer is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Customers button is successfully clicked."}
+{"level":"info","message":"Name is successfully entered."}
+{"level":"info","message":"Delete button is successfully clicked."}
+{"level":"info","message":"Accounnt deleted successfully."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC1_login is started."}
+{"level":"info","message":"Home button is present. Pass"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC2_verifyCurrencyType is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Account number is present. Pass"}
+{"level":"info","message":"Name is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC3_InitialTraction is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC4_DepositMoney is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"Amount  is successfully entered."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"Deposited successfully message  is present. Pass"}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC5_TransationAfterDeposit is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"amount column data 2000 "}
+{"level":"info","message":"Transaction type column data is Creadit. Pass"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC6_withDrawError is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Withdrawl button is successfully clicked."}
+{"level":"info","message":"Amount  is successfully entered."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"Transaction Failed. You can not withdraw amount more than the balance. "}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC7_withDrawSuccess is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Withdrawl button is successfully clicked."}
+{"level":"info","message":"Amount  is successfully entered."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"Transaction successful"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC8_TransationAfterWithdrowel is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"1000"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC9_TransationReset is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"Reset button is successfully clicked."}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC10_logOut is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Logout button is successfully clicked."}
+{"level":"info","message":"selected is successfully selected."}
+{"level":"info","message":"1006 is successfully selected."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC1_ManagerLogin is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Add Customer is present. Pass"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC2_addCustomer is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Add Customer is successfully clicked."}
+{"level":"info","message":"First Name is successfully entered."}
+{"level":"info","message":"Last Name is successfully entered."}
+{"level":"info","message":"Post Code is successfully entered."}
+{"level":"info","message":"Add customer button is successfully clicked."}
+{"level":"info","message":"Customer added successfully."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC3_oppenAccountForDoller is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Open Account is successfully clicked."}
+{"level":"info","message":"Process is successfully clicked."}
+{"level":"info","message":"Accounnt created successfully."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC4_oppenAccountForPound is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Open Account is successfully clicked."}
+{"level":"info","message":"Process is successfully clicked."}
+{"level":"info","message":"Accounnt created successfully."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC5_oppenAccountForRupee is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Open Account is successfully clicked."}
+{"level":"info","message":"Process is successfully clicked."}
+{"level":"info","message":"Accounnt created successfully."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC6_ToDeleteCustomer is started."}
+{"level":"info","message":"Manager login button is successfully clicked."}
+{"level":"info","message":"Customers button is successfully clicked."}
+{"level":"info","message":"Name is successfully entered."}
+{"level":"info","message":"Delete button is successfully clicked."}
+{"level":"info","message":"Accounnt deleted successfully."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"URL is entered."}
+{"level":"info","message":"TC1_login is started."}
+{"level":"info","message":"Home button is present. Pass"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC2_verifyCurrencyType is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Account number is present. Pass"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC3_InitialTraction is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC4_DepositMoney is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"Amount  is successfully entered."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"Deposited successfully message  is present. Pass"}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC5_TransationAfterDeposit is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC6_withDrawError is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Withdrawl button is successfully clicked."}
+{"level":"info","message":"Amount  is successfully entered."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC7_withDrawSuccess is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Withdrawl button is successfully clicked."}
+{"level":"info","message":"Amount  is successfully entered."}
+{"level":"info","message":"Deposit button is successfully clicked."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC8_TransationAfterWithdrowel is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC9_TransationReset is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Transactions button is successfully clicked."}
+{"level":"info","message":"Reset button is successfully clicked."}
+{"level":"info","message":"TestCase Completed"}
+{"level":"info","message":"TC10_logOut is started."}
+{"level":"info","message":"Customer Login button is successfully clicked."}
+{"level":"info","message":"Login button is successfully clicked."}
+{"level":"info","message":"Logout button is successfully clicked."}
+{"level":"info","message":"TestCase Completed"}

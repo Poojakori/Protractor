@@ -1,0 +1,23 @@
+{
+    "url": "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+    "TC4": {
+        "amt": 2000
+    },
+    "TC5": {
+        "amt": "2000",
+        "transaction": "Credit"
+    },
+    "TC6": {
+        "amt": 2001
+    },
+    "TC7": {
+        "amt": 1000
+    },
+    "TC8": {
+        "amt": "1000"
+    }
+
+
+    
+
+}
