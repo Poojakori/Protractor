@@ -1,0 +1,29 @@
+{
+    "url":"http://www.way2automation.com/angularjs-protractor/calc/",
+    "add": {
+        "a": 6,
+        "b":3,
+        "result": "9"
+    },
+    "sub": {
+        "a": 6,
+        "b": 3,
+        "result": "3"
+    },
+    "mul": {
+        "a": 6,
+        "b": 3,
+        "result": 18
+    },
+    "div": {
+        "a": 6,
+        "b": 3,
+        "result": "2"
+
+    },
+    "mod": {
+        "a": 6,
+        "b": 3,
+        "result": "0"
+    }
+}
